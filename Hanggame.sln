@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C23BEE1A-06ED-4C46-B579-8EFB73046F45}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		negAnswers.txt = negAnswers.txt
+		posAnswers.txt = posAnswers.txt
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Hanggame", "src\Hanggame\Hanggame.xproj", "{44087376-1C03-49DF-8255-C63AD7A32576}"
